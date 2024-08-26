@@ -376,8 +376,9 @@ section {
 }
 
 .prg  {
+    font-size: larger;
     margin-left: 29em;
-    margin-top: -44em;
+    margin-top: -30em;
     color: #ff0000;
 }
 
